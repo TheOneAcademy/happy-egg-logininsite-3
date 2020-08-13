@@ -1,0 +1,14 @@
+body{
+    font-family: 'Baloo Tamma 2', cursive;
+    text-rendering: geometricPrecision;
+}
+
+.highlights{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.right-col{
+    justify-content: center;
+    flex-direction: column;
+}
